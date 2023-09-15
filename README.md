@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 👨‍🎓 I'm a PhD Student at Johns Hopkins
-🔭 I’m currently working on learning under non-stationary distributions and OOD generalization.
-🌱 My research interests include {machine, deep} learning, computer vision, and neuroscience. 
+
+🔭 I’m currently working on learning under non-stationary distributions and OOD generalization
+
+🌱 My research interests include {machine, deep} learning, computer vision, and neuroscience
+
 😄 Pronouns: he/him
 
 
