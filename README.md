@@ -1,14 +1,6 @@
-### Hi there 👋
+### Hello there!
 
-👨‍🎓 I'm a PhD Student at Johns Hopkins
-
-🌱 My research interests include {machine, deep} learning, computer vision, and neuroscience
-
-🔭 I’m currently working on learning under non-stationary distributions and OOD generalization
-
-👯 I’m looking to collaborate on the above topics + NeuroAI + AI4Science!
-
-😄 Pronouns: he/him
+I am a PhD candidate in the Department of Biomedical Engineering at Johns Hopkins University. I broadly work on {statistical, deep} learning, with an aspiration of reducing the gap between machine and natural intelligence. My doctoral research focuses on learning under non-stationary distributions and distribution shifts, with applications in large language models, computer vision, and biomedical data science.
 
 
 <!--
